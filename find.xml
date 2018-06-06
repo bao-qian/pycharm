@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="test" />
+    <option name="defaultScopeName" value="test" />
+    <option name="SEARCH_SCOPE" value="test" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.js</mask>
+    <mask>*.css</mask>
+    <mask>*.py</mask>
+    <mask>*.py</mask>
+  </component>
+</application>
